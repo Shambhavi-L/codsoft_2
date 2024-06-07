@@ -1,2 +1,3 @@
 # codsoft_2
-landing_page
+Landing Page
+This is a simple landing page using HTML and CSS.
